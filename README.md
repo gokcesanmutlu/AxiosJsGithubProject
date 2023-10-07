@@ -15,7 +15,7 @@
     <li>JAVASCRIPT</li>
   </ul>
 <p>You can reach to Website, when you are click <a href="https://github-card-info.netlify.app/">HERE</a>.</p>
-<p>You can write a anybody's github username at page's input. System will give the card about that person's github account.</p>
+<p>You can search a anybody's github username at page's input. System will give the card about that person's github account.</p>
 
 </body>
 </html>
