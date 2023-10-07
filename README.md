@@ -14,9 +14,10 @@
     <li>CSS</li>
     <li>JAVASCRIPT</li>
   </ul>
-<!--   <p>You can reach to Website, when you are click <a href="https://healtyfoodish.netlify.app/">HERE</a>.</p>
+<p>You can reach to Website, when you are click <a href="https://github-card-info.netlify.app/">HERE</a>.</p>
+<p>You can write a anybody's github username at page's input. System will give the card about that person's github account.</p>
 
 </body>
 </html>
 
-<!--Screenshot ![HealthyFoodishprojectgif](healthyfood.gif) -->
+Screenshot ![axiosgithubprojectgif](githubcard.gif)
